@@ -2,3 +2,5 @@ language: node_js
 - '7'
 before_script:
   - npm install
+script:
+  - npm start
